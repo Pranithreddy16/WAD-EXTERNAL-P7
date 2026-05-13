@@ -2,6 +2,7 @@ Build a responsive web application for shopping cart with registration, login,
 catalog and cart pages.
 1) Make the above web application responsive web application using Bootstrap
 framework
+
 OUTPUT:-
 index.html
 <img width="1045" height="697" alt="Screenshot 2026-05-13 113638" src="https://github.com/user-attachments/assets/aead455d-d1c3-4d8b-b29d-8631fe27e427" />
